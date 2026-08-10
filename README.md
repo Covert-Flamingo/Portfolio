@@ -47,7 +47,7 @@ This project was created as part of my QA Automation portfolio to demonstrate:
 ---
 # Dependencies installation
 - Clone the repository:
-- git clone https://github.com/Covert-Flamingo/Portfolio.git
+- git clone https://github.com/Andres-Ghiazza/Portfolio.git
 - npm install
 - Install Playwright browsers:
 - npx playwright install
@@ -61,4 +61,4 @@ This project was created as part of my QA Automation portfolio to demonstrate:
 ---
 Test Report
 You can view the generated automation report here:
-https://covert-flamingo.github.io/Portfolio/
+https://Andres-Ghiazza.github.io/Portfolio/
